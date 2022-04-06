@@ -13,6 +13,7 @@
     <a href="https://github.com/levina-lab/video-stream/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/levina-lab/video-stream/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
+[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan5/video-stream)
 
 ## Deployment
 Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements) for Detailed Information and Setup Guide on deploying Bot.
@@ -56,7 +57,6 @@ Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements
 <details>
 <summary><b>🔗 Deploy to VPS</b></summary>
 <br>
-[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan5/video-stream)
 
 > Checkout the [Docs](https://levina.gitbook.io/videostreambot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deployment
 
